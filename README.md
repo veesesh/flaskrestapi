@@ -30,4 +30,4 @@ We learnt about Flask and Jsonify and how to make use of all the tools according
 
 ## ⏭ What's next for -
 - A Proper GUI for the project 
-- can do hosting of the flask using stable WSGI and apache or anyother so as to avoid crashing of server
+- can do hosting of the flask using stable WSGI and apache or any other so as to avoid crashing of server
